@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catalogue-Movie</string>
+    <string name="dashboard_movie">Movies</string>
+    <string name="dashboard_tvseries">TV Series</string>
+    <string name="movies_title">movies title</string>
+    <string name="movies_overview">movies overview</string>
+    <string name="movies_release">Release Date</string>
+    <string name="movies_vote">Movies Rating</string>
+    <string name="overview">Overview</string>
+    <string name="tvseries_title">Tv Series Title</string>
+    <string name="tvseries_overview">TV Series Overview</string>
+    <string name="tvseries_release">Penampilan Perdana</string>
+    <string name="tvseries_vote">Rating Serial Tv</string>
+    <string name="change_language_settings">Change Language</string>
+</resources>

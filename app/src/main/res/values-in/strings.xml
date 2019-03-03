@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film Katalog</string>
+    <string name="dashboard_movie">Film</string>
+    <string name="dashboard_tvseries">Serial TV</string>
+    <string name="overview">Ringkasan</string>
+    <string name="movies_title">Judul Film</string>
+    <string name="movies_overview">Ringkasan Film</string>
+    <string name="movies_release">Film Release</string>
+    <string name="movies_vote">Rating Film</string>
+    <string name="tvseries_title">Judul Serial TV</string>
+    <string name="tvseries_overview">Ringkasan Serial TV</string>
+    <string name="tvseries_release">Penampilan Perdana</string>
+    <string name="tvseries_vote">Rating Serial Tv</string>
+    <string name="change_language_settings">Perubahan Bahasa</string>
+
+</resources>
